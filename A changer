@@ -1,10 +1,14 @@
-Mettre un titre.
+Mettre un titre. Rendre la lecture du site plus simple pour les utilisateurs, par exemple " page 2 "par "contact"
 Réduire taille des images
 Changer citation par du texte pour augmenter le nombre de contenu.
 Mettre des informations pertinente dans les 'alt image, bonne ville "
-Réduire le nombre de div pour un objet, mieux sectionner le code
-Rendre la lecture du site plus simple pour les utilisateurs, par exemple " page 2 "par "contact"
 Enlever les 50 lien partenaires, les réduires.
 Mettre un header et un footer.
 Mettre la bonne langue
 sur contact, retirer les attribut en trop, mettre les bons.
+<meta name="description" content="">
+Contraste texte
+taille du texte plus lisible
+Css page contact
+Remplir description dans head
+h1 h2 h3
